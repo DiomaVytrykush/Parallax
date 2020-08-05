@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div>
             <div className="Header">You are welcome</div>
-            <div className="Scroll">Scroll down</div>
+            <div className="Scroll">Scroll or Click</div>
         </div>
     )
 }

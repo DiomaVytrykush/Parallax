@@ -1,7 +1,6 @@
 import React from 'react'
 import { ParallaxLayer } from 'react-spring/renderprops-addons'
 import eclipse from './images/eclipse.svg'
-import Moon from './images/moon.svg'
 import ShipLandscape from './images/Ship-Landscape.svg'
 
 const url = (name, wrap = false) => `${wrap ? 'url(' : ''}https://awv3node-homepage.surge.sh/build/assets/${name}.svg${wrap ? ')' : ''}`
@@ -45,10 +44,6 @@ const Background = () => {
             <ParallaxLayer offset={0.3} speed={0.4} style={{ opacity: 0.6 }}>
                 <img src={url('cloud')} style={{ display: 'block', width: '20%', marginLeft: '5%' }} />
                 <img src={url('cloud')} style={{ display: 'block', width: '15%', marginLeft: '75%' }} />
-            </ParallaxLayer>
-
-            <ParallaxLayer offset={2.1} speed={-0.2} style={{ pointerEvents: 'none' }}>
-                <img src={Moon} style={{ width: '15%', marginRight: '70%', opacity: 0.8 }} />
             </ParallaxLayer>
 
         </div>
