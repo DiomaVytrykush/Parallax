@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Parallax/static/css/main.cde489a8.chunk.css",
-    "main.js": "/Parallax/static/js/main.983df937.chunk.js",
-    "main.js.map": "/Parallax/static/js/main.983df937.chunk.js.map",
-    "runtime-main.js": "/Parallax/static/js/runtime-main.8d3b7a32.js",
-    "runtime-main.js.map": "/Parallax/static/js/runtime-main.8d3b7a32.js.map",
+    "main.js": "/Parallax/static/js/main.8b96da12.chunk.js",
+    "main.js.map": "/Parallax/static/js/main.8b96da12.chunk.js.map",
+    "runtime-main.js": "/Parallax/static/js/runtime-main.1eac942b.js",
+    "runtime-main.js.map": "/Parallax/static/js/runtime-main.1eac942b.js.map",
     "static/js/2.4659e5b3.chunk.js": "/Parallax/static/js/2.4659e5b3.chunk.js",
     "static/js/2.4659e5b3.chunk.js.map": "/Parallax/static/js/2.4659e5b3.chunk.js.map",
-    "static/css/3.f9efc5e1.chunk.css": "/Parallax/static/css/3.f9efc5e1.chunk.css",
-    "static/js/3.33f2e6cd.chunk.js": "/Parallax/static/js/3.33f2e6cd.chunk.js",
-    "static/js/3.33f2e6cd.chunk.js.map": "/Parallax/static/js/3.33f2e6cd.chunk.js.map",
+    "static/css/3.5bf40e59.chunk.css": "/Parallax/static/css/3.5bf40e59.chunk.css",
+    "static/js/3.9c2ec6f6.chunk.js": "/Parallax/static/js/3.9c2ec6f6.chunk.js",
+    "static/js/3.9c2ec6f6.chunk.js.map": "/Parallax/static/js/3.9c2ec6f6.chunk.js.map",
     "static/js/4.806db736.chunk.js": "/Parallax/static/js/4.806db736.chunk.js",
     "static/js/4.806db736.chunk.js.map": "/Parallax/static/js/4.806db736.chunk.js.map",
     "index.html": "/Parallax/index.html",
-    "precache-manifest.9c05b761065567eb417a868f9c2a3d69.js": "/Parallax/precache-manifest.9c05b761065567eb417a868f9c2a3d69.js",
+    "precache-manifest.a674a9884cac54317a85ebc200f24fa9.js": "/Parallax/precache-manifest.a674a9884cac54317a85ebc200f24fa9.js",
     "service-worker.js": "/Parallax/service-worker.js",
-    "static/css/3.f9efc5e1.chunk.css.map": "/Parallax/static/css/3.f9efc5e1.chunk.css.map",
+    "static/css/3.5bf40e59.chunk.css.map": "/Parallax/static/css/3.5bf40e59.chunk.css.map",
     "static/css/main.cde489a8.chunk.css.map": "/Parallax/static/css/main.cde489a8.chunk.css.map",
     "static/js/4.806db736.chunk.js.LICENSE.txt": "/Parallax/static/js/4.806db736.chunk.js.LICENSE.txt",
     "static/media/Flowers.svg": "/Parallax/static/media/Flowers.4822f7ed.svg",
@@ -34,9 +34,9 @@
     "static/media/ship.svg": "/Parallax/static/media/ship.7da0d39a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d3b7a32.js",
+    "static/js/runtime-main.1eac942b.js",
     "static/js/4.806db736.chunk.js",
     "static/css/main.cde489a8.chunk.css",
-    "static/js/main.983df937.chunk.js"
+    "static/js/main.8b96da12.chunk.js"
   ]
 }
