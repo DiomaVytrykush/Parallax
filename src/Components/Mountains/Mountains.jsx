@@ -8,11 +8,11 @@ const Mountains = () => {
         <>
 
             <ParallaxLayer offset={-0.5} speed={-0.1} style={{ pointerEvents: 'none' }}>
-                <img src={Flowers} style={{ width: '15%',  marginLeft: '80%'}} />
+                <img alt="img" src={Flowers} style={{ width: '15%',  marginLeft: '80%'}} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={0.9} speed={0.3} style={{ pointerEvents: 'none' }}>
-                <img src={papillon} style={{ width: '10%', marginLeft: '30%' }} />
+                <img alt="img" src={papillon} style={{ width: '10%', marginLeft: '30%' }} />
             </ParallaxLayer>
 
         </>

@@ -1,0 +1,17 @@
+@media screen and (max-width: 900px) {
+    .oct{
+        margin-bottom: -20%;
+    }
+    .cave{
+        top: 39%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .cave{
+        top: 52%;
+    }
+    .oct{
+        margin-bottom: -37%;
+    }
+}

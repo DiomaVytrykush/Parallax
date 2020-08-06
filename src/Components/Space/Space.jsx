@@ -19,27 +19,27 @@ const Space = () => {
             </ParallaxLayer>
 
             <ParallaxLayer offset={-1.4} speed={-0.2} style={{ pointerEvents: 'none' }}>
-                <img src={Moon} style={{ width: '15%', marginRight: '70%', opacity: 0.8, zIndex: 999 }} />
+                <img alt="img" src={Moon} style={{ width: '15%', marginRight: '70%', opacity: 0.8, zIndex: 999 }} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={-0.5} speed={-0.2} style={{ pointerEvents: 'none' }}>
-                <img src={Jupiter} style={{ width: '15%', marginLeft: '80%', opacity: 0.8 }} />
+                <img alt="img" src={Jupiter} style={{ width: '15%', marginLeft: '80%', opacity: 0.8 }} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={-1.5} speed={-0.2} style={{ pointerEvents: 'none' }}>
-                <img src={mars} style={{ width: '15%', marginLeft: '80%', opacity: 0.8 }} />
+                <img alt="img" src={mars} style={{ width: '15%', marginLeft: '80%', opacity: 0.8 }} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={1} speed={0.2} style={{ pointerEvents: 'none' }}>
-                <img src={saturn} style={{ width: '15%', marginLeft: '15%', opacity: 0.8 }} />
+                <img alt="img" src={saturn} style={{ width: '15%', marginLeft: '15%', opacity: 0.8 }} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={1} speed={0.9} style={{ pointerEvents: 'none' }}>
-                <img src={ship} style={{ width: '10%', marginLeft: '2%'}} />
+                <img alt="img" src={ship} style={{ width: '10%', marginLeft: '2%'}} />
             </ParallaxLayer>
 
             <ParallaxLayer offset={-2.4} speed={-0.4} style={{ pointerEvents: 'none' }}>
-                <img src={UFO} style={{ width: '15%', marginLeft: '80%'}} />
+                <img alt="img" src={UFO} style={{ width: '15%', marginLeft: '80%'}} />
             </ParallaxLayer>
         </>
     )
